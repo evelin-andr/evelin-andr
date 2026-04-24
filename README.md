@@ -6,11 +6,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica
 </p>
 
 <p align="left">
-  🦄 Linguagens: **PYTHON | JAVA**
+  🦄 Linguagens: PYTHON | JAVA
 </p>
 
 <p align="left">
-  💼 Ferramentas: **GIT\GITHUB | DOCKER | INTELLIJ \ CURSOR IDEA | SQLITE3 | SPRNG BOOT**
+  💼 Ferramentas: GIT\GITHUB | DOCKER | INTELLIJ \ CURSOR IDEA | SQLITE3 | SPRNG BOOT
 </p>
 
 <p align="left">

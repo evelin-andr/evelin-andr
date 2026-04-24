@@ -1,48 +1,28 @@
-<div align="left">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left"> 
+Olá, sou a Evelin!   
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Desenvolvimento de Sistemas. Foco em desenvolvimento de sistemas e aplicações web.
+</p>
 
-<br clear="both">
+<p align="left">
+  🦄 Linguagens: **PYTHON | JAVA**
+</p>
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelin-andr&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=evelin-andr&locale=pt-br&mode=weekly&theme=maroongold&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> -->
+<p align="left">
+  💼 Ferramentas: **GIT\GITHUB | DOCKER | INTELLIJ \ CURSOR IDEA | SQLITE3 | SPRNG BOOT**
+</p>
 
-###
+<p align="left">
+  💌 Entre em contato: ⤵️
+</p>
 
-<img align="right" height="200" src="https://i.gifer.com/6UZ8.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31aqpfu2l6kfthxgal75sgjy6uby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aqpfu2l6kfthxgal75sgjy6uby&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  
-  <a href= "https://www.linkedin.com/in/evelin-silva-9346b3389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> 
-  </a>
-
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div> </a>
-
-###
-
-<h6 align="center">Hello World!!</h6>
-
+<p align="left">
+  <a href="https://mail.google.com/mail/u/1/#inbox" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/evelin-silva-9346b3389/?skipRedirect=true" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.link/vcrqbu" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+ 
+</p>
